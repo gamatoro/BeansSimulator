@@ -1,0 +1,2 @@
+C:\Users\blazk\Desktop\C projects\Beans Simulator\BeansSimulator\x64\Release\BeansSimulator.exe
+C:\Users\blazk\Desktop\Cprojects\BeansSimulator\BeansSimulator\x64\Release\BeansSimulator.exe
