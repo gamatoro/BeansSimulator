@@ -176,7 +176,6 @@ int main()
             sortBeans();
          }
       }
-
       printStats( numOfTries, startTime );
 
       char tryAgain;
